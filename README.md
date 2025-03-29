@@ -28,3 +28,4 @@ This are the commands for using Github with VS code
 23. {git diff another branch name} for comparing changes with another branch
 24. {git merge branch name} for merging two branches 
 25. {git pull origin main} if you change something on github to pull that onto VS
+
