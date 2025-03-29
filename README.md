@@ -8,6 +8,6 @@ This are the commands for using Github with VS code
 5. {ls} for list of all files
 6. {git add file name} for changed or adding new files
 7. {git add .} for adding all files at once          #IMP
-8. {git commit "some message"} for commiting the file  #IMP
+8. {git commit -m "some message"} for commiting the file  #IMP
 9. {git push origin main}
 10. 
